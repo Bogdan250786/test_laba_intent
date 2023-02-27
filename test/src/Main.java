@@ -5,6 +5,8 @@ public class Main {
     }
 
     public String testMethod() {
+        int a =2;
+        int b = 5;
         return "new Str";
     }
 }
